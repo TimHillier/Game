@@ -3,7 +3,7 @@ public class Graphics {
 		static int col = 8; 
 		
 		
-		static void Graphics(){
+		static void Show(){
 		String[][] tile1 = new String[][] {
 				{ "X ", "Ω ", "X ", "X ", "X ", "X ", "X ", "X " },
 				{ "X ", "\\ ", "\\ ", "\\ ", "\\ ", "\\ ", "\\ ", "X " },
